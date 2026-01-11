@@ -1,5 +1,6 @@
 #include <iostream>
 #include <limits>
+#include <string>
 #include "User.hpp"
 #include "Menu.hpp"
 #include "Utils.hpp"

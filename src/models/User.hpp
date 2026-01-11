@@ -12,7 +12,7 @@ enum UserRole
 class User
 {
 private:
-    static int id = 1;
+    static int id;
     string nom;
     string prenom;
     string telephone;
