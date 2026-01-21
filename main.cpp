@@ -1,9 +1,9 @@
 #include <iostream>
 #include <limits>
 #include <string>
-#include "User.hpp"
-#include "Menu.hpp"
-#include "Utils.hpp"
+#include "src/User.hpp"
+#include "src/Menu.hpp"
+#include "src/Utils.hpp"
 
 void initializeSystem()
 {
